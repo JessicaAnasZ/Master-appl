@@ -69,6 +69,27 @@ The first deadline for submitting the deposit is Feb 28, I ask for an extension 
 
 Good for someone in Financial industry and want to enhance their quantative background. For me, they have a strong list of PhD courses such as modern analysis, probability theory. But all things considered, I just don't want to take intro. to probability again and go over some of the math course maybe in more or less details. Overall, good for someone who to develop or build a foundation in quantitative science.
 
+
+### () 2018-xx-xx 哥伦比亚大学 (Columbia University): MA in Biostatistics
+
+| Test  | School | Department  | Status   |
+| :---: |:------:| :----------:| :------: |
+| GRE   | xxxx   | N/A         | xxxx     |
+| TOEFL | xxxx   | N/A         | xxxx     |
+
+[Info]()
+
+[Curriculum]()
+
+[Apply online]()
+
+**Extra**
+和phD一起上课 主要用R
+Master TA有工资
+第一学期19000多刀，费城租房500-2000刀一个月。吃饭的话，餐车一顿平均5刀，餐厅里吃平均10-20刀（普通餐厅&食量一般），自己做的话一周去趟超市大概50刀左右。晚上比较危险，尽量不要待在外面，住的不太远的话回家可以打电话找校警陪着走回家，学校周一到周五也有shuttle运行到很晚。但目前来看其实还好，我有时候会在图书馆待到七八点，路上还挺多人的，校警巡逻范围内都挺安全的
+第一年的课都是学院帮忙选好的，每学期四门课，phd和master一起上课。qualify exam相对来说还是有难度的。毕业需要12个学分，第二年可以选修别的系的课，orientation上教授说推荐选些CS和economics的课，编程非常重要。
+
+
 ### () 2018-xx-xx 哥伦比亚大学 (Columbia University): MA in Biomedical Informatics
 
 | Test  | School | Department  | Status   |
