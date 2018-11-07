@@ -50,8 +50,8 @@ Financial statement/bank statement and other specfic files.
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
-| GRE   | xxxx   | N/A         | xxxx     |
-| TOEFL | xxxx   | N/A         | xxxx     |
+| GRE   | 2162   | N/A         | xxxx     |
+| TOEFL | 4256   | N/A         | xxxx     |
 
 [Info](http://stat.columbia.edu/ma-programs/application-procedures-and-requirements/)
 
@@ -94,8 +94,8 @@ Good for those heading to CS.
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
-| GRE   | xxxx   | N/A         | xxxx     |
-| TOEFL | xxxx   | N/A         | xxxx     |
+| GRE   | 2074   | N/A         | xxxx     |
+| TOEFL | 2074   | N/A         | xxxx     |
 
 [Info](http://www.cmu.edu/ms-compbio/)
 
@@ -109,11 +109,12 @@ Good for those heading to CS.
 
 **Extra**
 
-Got an interview for my speaking, probably due to my low TOEFL scores. It went well and I got a small scholarship of 3,000 dollar. Good for someone who really want to continue research/career in computational biology field.
+Good for someone who really want to continue research/career in computational biology field.
 
 Good for someone who wants to further dig in the field of computational biology (NOT CS). My guess is that it won't be so easy for someone coming from this program to find a software engineer job. But great if you consider going into this field as a data analyst or PhD perhaps. The pay is actually decent.
+限制CS选课，不倾向就业，cs实习不批cpt
 
-### (ADM) 2017-12-15 杜克大学 (Duke University): Master in Interdisciplinary Data Science
+### () 2018-xx-xx 杜克大学 (Duke University): Master in Interdisciplinary Data Science
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -124,15 +125,15 @@ Good for someone who wants to further dig in the field of computational biology 
 
 **Extra**
 
-Admitted ! I hesitated so long between this and the ETH and I chose ETH. I guessed I am just not optimistic about the data science hype right now.
+WYQ guessed he was just not optimistic about the data science hype right now.
 
 
-### (ADM) 2017-12-15 纽约大学(NYU): Msc in Data Science 
+### () 2018-xx-xx 纽约大学(NYU): Msc in Data Science 
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
-| GRE   | 2596   | N/A         | Sent     |
-| TOEFL | 2596   | N/A         | Sent     |
+| GRE   | 2596   | N/A         | xxxx     |
+| TOEFL | 2596   | N/A         | xxxx     |
 
 [Info](https://cds.nyu.edu/academics/ms-in-data-science/)
 
@@ -146,75 +147,8 @@ Different tracks available during application but successful applicants may swit
 
 Update at mid April, it is not a nice move that they offered now since I have made the decision and most schools set their decision deadline at Apr 15. Not cool! Not cool at all! NYU
 
-### (REJ)2017-12-15 耶鲁大学 (Yale): Msc in Statistics
 
-| Test  | School | Department  | Status   |
-| :---: |:------:| :----------:| :------: |
-| GRE   | 3987   | N/A         | Sent     |
-| TOEFL | 3987   | N/A         | Sent     |
-
-[Info](https://statistics.yale.edu/academics/terminal-ma-program)
-
-[Curriculum](https://statistics.yale.edu/academics/graduate-programs/terminal-ma-program/course-study)
-
-[Apply online](https://apply.grad.yale.edu/apply/frm?c1f71044-d024-44fc-92a7-7535ff6c0174)
-
-**Important Dates**
-
-**Extra**
-
-[Application guideline](https://gsas.yale.edu/admissions/application-process)
-
-I am not at all surprised since the large number of applicants and the lack of stat. background ?
-Someone told me they select only a handful each year and this MA is actually a very very small program while some of them are from PhD. Having known that, I would probably have gone for other stat program. :(
-
-### (REJ) 2017-12-15 纽约大学坦登工程学院 (NYU Tandon): Msc in Computer Science
-
-| Test  | School | Department  | Status   |
-| :---: |:------:| :----------:| :------: |
-| GRE   | 2668   | N/A         | Sent     |
-| TOEFL | 2668   | 78          | Sent     |
-
-[Info](http://engineering.nyu.edu/academics/programs/computer-science-ms)
-
-[Curriculum](http://engineering.nyu.edu/academics/programs/computer-science-ms/curriculum)
-
-[Apply online](http://engineering.nyu.edu/admissions/graduate/apply)
-
-**Important Dates**
-
-**Extra**
-
-All the official transcripts needed
-
-No surprise at all given the heat in CS nowadays. Applied for this just looking forward to landing a decent job in NYC.
-
-### (NA) 2017-12-15 南加大 (USC): Msc in Computer Science (Scientists and Engineers)
-
-| Test  | School | Department  | Status   |
-| :---: |:------:| :----------:| :------: |
-| GRE   | 4852   | N/A         | Sent     |
-| TOEFL | 4852   | N/A         | Sent     |
-
-[Info](https://www.cs.usc.edu/masters/scientists-and-engineers/)
-
-[Curriculum](https://www.cs.usc.edu/masters/scientists-and-engineers/)
-
-[Apply online](https://usc.liaisoncas.com/applicant-ux/#/login)
-
-**Important Dates**
-
-2017-12-15: Fall 2018 (Scholarship Consideration Deadline) Online application & transcripts
-
-2018-01-17: Fall 2018 (Final Deadline) All materials including testscores
-
-**Extra**
-
-[Toefl requirement](https://gradadm.usc.edu/lightboxes/international-students-english-proficiency/) USC’s institution code is 4852. (No department code is required.)
-
-Decided to discontinue from the application after reviewing the course materials and some classmates. Stop sending official transcripts at Early Jan. 2018
-
-### (REJ) 2017-12-15 卡内基梅隆大学 (CMU): Msc in Biotechnology Innovation and Computation
+### () 2018-xx-xx 卡内基梅隆大学 (CMU): Msc in Biotechnology Innovation and Computation
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -235,7 +169,7 @@ This program has changed from BIC to Artificial Intelligence and Entrepreneurshi
 
 It's really career-based and I am quite confident this Master will help you land a job easily. Good! But it's probably gonna be much more competitive next year considering the wave of AI bull sh$t.
 
-### (REJ) 2018-01-15 伊利诺伊大学厄巴纳-尚佩恩分校(UIUC) Msc in Bioinformatics
+### () 2018-xx-xx 伊利诺伊大学厄巴纳-尚佩恩分校(UIUC) Msc in Bioinformatics
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -268,55 +202,14 @@ Got rejected. Will ask them why. But my guess is the lack of cs courses. This pr
 
 Compared to the computational biology at CMU, this definitely will help a lot when I was considering a job at the tech companies. But in that way, they perfer someone with a CS degree **I guess!**
 
-### (REJ) 2017-12-15 麦吉尔大学 (McGill University): Msc in Biostatistics
 
-| Test  | School | Department  | Status   |
-| :---: |:------:| :----------:| :------: |
-| GRE   | N/A    | N/A         | Not required |
-| TOEFL | N/A    | N/A         | Sent     |
+### () 2018-xx-xx SFU: Msc in Computer Science (Bioinformatics)
 
-[Info](http://www.mcgill.ca/gradapplicants/german-studies-0#app)
 
-[Curriculum](https://www.mcgill.ca/study/2017-2018/faculties/medicine/graduate/programs/master-science-msc-biostatistics-non-thesis#msc-bst-n_bst5_major_md)
-
-[Apply online](https://nimbus.mcgill.ca/uApply/dashboard/applicant)
-
-**Important Dates**
-
-**Extra**
-
-Got rejected for no apparent reasons. Piss! since I don't even want to go at the first place.
-
-### (REJ) 2018-01-19 多伦多大学 (University of Toronto): Msc in Applied Computing
-
-| Test  | School | Department  | Status   |
-| :---: |:------:| :----------:| :------: |
-| GRE   | 0982   | 0402        | Sent     |
-| TOEFL | 0982   | 78          | Sent     |
-
-[Info](http://web.cs.toronto.edu/Graduate/prospective_gradwhy/mscac.htm)
-
-[Curriculum](http://web.cs.toronto.edu/Graduate/prospective_gradwhy/mscac.htm)
-
-[Apply online](http://web.cs.toronto.edu/Graduate/prospective_gradwhy/mscac.htm)
-
-**Important Dates**
-
-2018-01-01: [Application deadline](http://www.dlsph.utoronto.ca/students/future-students/application-process/)
-
-**Extra**
-
-[FAQ](http://web.cs.toronto.edu/Graduate/prospective_gradwhy/mscac/MScAC_FAQ_s.htm)
-
-Saw it coming! I have no chance of getting in this... Do not attempt CS master if you have no experience.
-
-### (NA) 2018-01-15 SFU: Msc in Computer Science (Bioinformatics)
-
-Contacted the professor via email. Skype once early Jan 2018. But the system says I cancel the application. WOW! No idea what happen.
 
 ## Euro
 
-### (ADM) 2017-12-15 苏黎世联邦理工学院(ETHz): Msc in Computational Biology and Bioinformatics 
+### () 2018-xx-xx 苏黎世联邦理工学院(ETHz): Msc in Computational Biology and Bioinformatics 
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -349,9 +242,8 @@ Can be submitted in a single envelop.
 
 Describe all the courses under 500 characters each.
 
-HHHHHHHH. I got admitted!
 
-### (ADM) 2018-04-01 莱顿大学(University of Leiden): Msc in Computer Science (Bioinformatics)
+### () 2018-04-01 莱顿大学(University of Leiden): Msc in Computer Science (Bioinformatics)
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -372,7 +264,7 @@ HHHHHHHH. I got admitted!
 
 Rolling basis. Too late when the decision is made early april.
 
-### (REJ) 2018-02-15 苏黎世大学(UZH): Msc in Biostatistics
+### () 2018-xx-xx 苏黎世大学(UZH): Msc in Biostatistics
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -402,87 +294,10 @@ Documents required:
 8. proof of a sufficient level in English: where applicable
 9. optional: any additional information that might be relevant for the evaluation of your application (e.g. scientific or technical publications or awards, previous graduate studies, professional experience, reference letters etc.)
 
-FUCK U! Why rejection? No idea!? I think I am more than qualified for this program.
-
-### (REJ) 2018-01-15 瑞典皇家工学院(KTH): Msc in Molecular Techniques in Life Science
-
-| Test  | School | Department  | Status   |
-| :---: |:------:| :----------:| :------: |
-| GRE   | N/A    | N/A         | Not required |
-| TOEFL | 3477   | N/A         | Sent     |
-
-[Info](https://www.kth.se/en/studies/master/molecular-techniques-life-science)
-
-[Curriculum]()
-
-[Apply online](https://www.universityadmissions.se/intl/start)
-
-All application will be make through universityadmissions.
-
-General info. need to be submitted once but university-specific files may vary.
-
-All sweden university reject me and it says that the credits are not up to their standard. Werid but never mind. Their programs are not that appealing though.
-
-**Important Dates**
-
-2018-04-06: Notification of selection results
-
-**Extra**
-
-Additional Documents required [more](https://www.kth.se/en/studies/master/molecular-techniques-life-science/entry-requirements-1.501288):
-1. CV
-2. Letters of recommendation
-3. Description of and documented relevant work experience, if any.
-4. Summary sheet
-
-DO NOT APPLY
-
-### (REJ) 2018-01-15 隆德大学(Lund University): Msc in Bioinformatics
-
-Apply together with KTH.
-
-[Info](http://www.lunduniversity.lu.se/lubas/i-uoh-lu-NABIF/18010)
-
-Additional Documents required:
-1. Summary sheet
-
-DO NOT APPLY
-
-### (REJ) 2018-01-15 乌普萨拉大学(Uppsala University): Msc in Bioinformatics (Biology background)
-
-Apply together with KTH.
-
-[Info](http://www.uu.se/en/admissions/master/selma/program/?pInr=BIOL&pKod=TBK2M&lasar=18/19)
-
-Additional Documents required:
-1. Statement of purpose (1 page)
-
-DO NOT APPLY
 
 ## Honorable Mentions
 
-### (NA) 2018-02-01 滑铁卢大学 (University of Waterloo): MMath in Biostatistics (Co-op)
-
-| Test  | School | Department  | Status   |
-| :---: |:------:| :----------:| :------: |
-| GRE   | N/A    | N/A         | Not required |
-| TOEFL | N/A    | N/A         | Not required |
-
-[Info](https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-mathematics-mmath-biostatistics-co-operative-program)
-
-[Curriculum](https://uwaterloo.ca/graduate-studies-academic-calendar/mathematics/department-statistics-and-actuarial-science/master-mathematics-mmath-biostatistics)
-
-[Apply online](https://uwaterloo.ca/discover-graduate-studies/application-process/apply-online)
-
-**Important Dates**
-
-**Extra**
-
-[OUAC](https://www.ouac.on.ca/apply/uwgrad/en_CA/user/login)
-
-Withdraw at the middle of the application. I don't know why...
-
-### (NA) 2018-03-** 剑桥大学 (University of Cambridge): MPhil in Computational Biology
+### () 2018-xx-xx 剑桥大学 (University of Cambridge): MPhil in Computational Biology
 
 | Test  | School | Department  | Status   |
 | :---: |:------:| :----------:| :------: |
@@ -515,23 +330,3 @@ No comment since I haven't done any research for this program.
 **Extra**
 
 Stopped the application for no reasons. I must be crazy at that moment.
-
-## Second Bachelor
-
-I apply this thinking that I might not get admitted into any of the schools above. That is not going help the process and just stay confident about yourself. SO don't apply for the so-called second bachelor program. Get a transfer earlier or just apply for jobs in the first place
-
-### (NA) 2018-01-15 UBC: Second Bachelor of Computer Science
-
-TOEFL sent
-
-https://www.cs.ubc.ca/students/undergrad/programs/second-degree/how-apply
-
-DO NOT APPLY, It is undergraduate all over again.
-
-### (NA) 2018-01-15 SFU: Second Bachelor of Computer Science
-
-TOEFL sent
-
-https://www.sfu.ca/computing/current-students/undergraduate-students/programs/second-degree-in-computing-science.html
-
-DO NOT APPLY, It is undergraduate all over again.
