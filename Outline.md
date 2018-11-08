@@ -46,6 +46,15 @@ Financial statement/bank statement and other specfic files.
 
 ## North America - STAT/DS
 
+### (ADM) 2017-12-15 杜克大学 (Duke University): Master in Interdisciplinary Data Science
+
+| Test  | School | Department  | Status   |
+| :---: |:------:| :----------:| :------: |
+| GRE   | N/A    | N/A         |          |
+| TOEFL | N/A    | N/A         |          |
+
+**Important Dates**
+
 ### () 2018-xx-xx 哥伦比亚大学 (Columbia University): MA in Statistics
 
 | Test  | School | Department  | Status   |
@@ -125,6 +134,35 @@ Master TA有工资
 
 ## North America - BIOINFO
 
+### (REJ)2017-12-15 耶鲁大学 (Yale): Msc in Biological & Biomedical Sciences
+
+| Test  | School | Department  | Status   |
+| :---: |:------:| :----------:| :------: |
+| GRE   | xxxx   | N/A         | Sent     |
+| TOEFL | xxxx   | N/A         | Sent     |
+
+[Info](https://cbb.yale.edu/graduate-program)
+
+[Curriculum](https://cbb.yale.edu/graduate-program/example-courses-three-course-areas)
+
+[Apply online](https://medicine.yale.edu/bbs/apply/index.aspx)
+
+**Important Dates**
+
+### () 2018-xx-xx 华盛顿大学 (University of Washington): Research Master in Biomedical and Health Informatics
+
+| Test  | School | Department  | Status   |
+| :---: |:------:| :----------:| :------: |
+| GRE   | xxxx   | N/A         | xxxx     |
+| TOEFL | xxxx   | N/A         | xxxx     |
+
+[Info](http://bime.uw.edu/education-programs/research-masters/)
+
+[Curriculum](http://bime.uw.edu/education-programs/research-masters/)
+
+[Apply online](http://bime.uw.edu/admission-requirements/)
+
+
 ### () 2018-xx-xx 哥伦比亚大学 (Columbia University): MA in Biomedical Informatics
 
 | Test  | School | Department  | Status   |
@@ -169,6 +207,20 @@ Good for someone who really want to continue research/career in computational bi
 
 Good for someone who wants to further dig in the field of computational biology (NOT CS). My guess is that it won't be so easy for someone coming from this program to find a software engineer job. But great if you consider going into this field as a data analyst or PhD perhaps. The pay is actually decent.
 限制CS选课，不倾向就业，cs实习不批cpt
+
+
+### () 2018-xx-xx 密歇根大学 (University of Michigan): Msc in Computational Medicine and Bioinformatics
+
+| Test  | School | Department  | Status   |
+| :---: |:------:| :----------:| :------: |
+| GRE   | N/A    | N/A         | Not required |
+| TOEFL | 1836   | N/A         | Sent     |
+
+[Info](https://medicine.umich.edu/dept/dcmb/education/degrees/masters-program)
+
+[Curriculum]()
+
+[Apply online](https://medicine.umich.edu/dept/dcmb/education/graduate-admissions)
 
 
 ### () 2018-xx-xx 伊利诺伊大学厄巴纳-尚佩恩分校(UIUC) Msc in Bioinformatics
