@@ -44,7 +44,7 @@ Writing sample and proposals are must for PhD but not for all master unless it i
 Financial statement/bank statement and other specfic files.
 8. Make sure you write down the details of your address, info. about who recommend you, Test score in a plain text file because you have to copy and paste a lot of time.
 
-## North America
+## North America - STAT/DS
 
 ### () 2018-xx-xx 哥伦比亚大学 (Columbia University): MA in Statistics
 
@@ -69,6 +69,40 @@ The first deadline for submitting the deposit is Feb 28, I ask for an extension 
 
 Good for someone in Financial industry and want to enhance their quantative background. For me, they have a strong list of PhD courses such as modern analysis, probability theory. But all things considered, I just don't want to take intro. to probability again and go over some of the math course maybe in more or less details. Overall, good for someone who to develop or build a foundation in quantitative science.
 
+### () 2018-xx-xx 杜克大学 (Duke University): Master in Interdisciplinary Data Science
+
+| Test  | School | Department  | Status   |
+| :---: |:------:| :----------:| :------: |
+| GRE   | N/A    | N/A         |          |
+| TOEFL | N/A    | N/A         |          |
+
+**Important Dates**
+
+**Extra**
+
+WYQ guessed he was just not optimistic about the data science hype right now.
+
+### () 2018-xx-xx 纽约大学(NYU): Msc in Data Science 
+
+| Test  | School | Department  | Status   |
+| :---: |:------:| :----------:| :------: |
+| GRE   | 2596   | N/A         | xxxx     |
+| TOEFL | 2596   | N/A         | xxxx     |
+
+[Info](https://cds.nyu.edu/academics/ms-in-data-science/)
+
+[Curriculum](https://cds.nyu.edu/academics/ms-in-data-science/ms-curriculum/)
+
+[Apply online](https://apply.gsas.nyu.edu/apply/)
+
+**Extra**
+
+Different tracks available during application but successful applicants may switch tracks once admitted. (At least that's what I heard from other).
+
+Update at mid April, it is not a nice move that they offered now since I have made the decision and most schools set their decision deadline at Apr 15. Not cool! Not cool at all! NYU
+
+
+## North America - BIOSTAT
 
 ### () 2018-xx-xx 哥伦比亚大学 (Columbia University): MA in Biostatistics
 
@@ -89,6 +123,7 @@ Master TA有工资
 第一学期19000多刀，费城租房500-2000刀一个月。吃饭的话，餐车一顿平均5刀，餐厅里吃平均10-20刀（普通餐厅&食量一般），自己做的话一周去趟超市大概50刀左右。晚上比较危险，尽量不要待在外面，住的不太远的话回家可以打电话找校警陪着走回家，学校周一到周五也有shuttle运行到很晚。但目前来看其实还好，我有时候会在图书馆待到七八点，路上还挺多人的，校警巡逻范围内都挺安全的
 第一年的课都是学院帮忙选好的，每学期四门课，phd和master一起上课。qualify exam相对来说还是有难度的。毕业需要12个学分，第二年可以选修别的系的课，orientation上教授说推荐选些CS和economics的课，编程非常重要。
 
+## North America - BIOINFO
 
 ### () 2018-xx-xx 哥伦比亚大学 (Columbia University): MA in Biomedical Informatics
 
@@ -135,60 +170,6 @@ Good for someone who really want to continue research/career in computational bi
 Good for someone who wants to further dig in the field of computational biology (NOT CS). My guess is that it won't be so easy for someone coming from this program to find a software engineer job. But great if you consider going into this field as a data analyst or PhD perhaps. The pay is actually decent.
 限制CS选课，不倾向就业，cs实习不批cpt
 
-### () 2018-xx-xx 杜克大学 (Duke University): Master in Interdisciplinary Data Science
-
-| Test  | School | Department  | Status   |
-| :---: |:------:| :----------:| :------: |
-| GRE   | N/A    | N/A         |          |
-| TOEFL | N/A    | N/A         |          |
-
-**Important Dates**
-
-**Extra**
-
-WYQ guessed he was just not optimistic about the data science hype right now.
-
-
-### () 2018-xx-xx 纽约大学(NYU): Msc in Data Science 
-
-| Test  | School | Department  | Status   |
-| :---: |:------:| :----------:| :------: |
-| GRE   | 2596   | N/A         | xxxx     |
-| TOEFL | 2596   | N/A         | xxxx     |
-
-[Info](https://cds.nyu.edu/academics/ms-in-data-science/)
-
-[Curriculum](https://cds.nyu.edu/academics/ms-in-data-science/ms-curriculum/)
-
-[Apply online](https://apply.gsas.nyu.edu/apply/)
-
-**Extra**
-
-Different tracks available during application but successful applicants may switch tracks once admitted. (At least that's what I heard from other).
-
-Update at mid April, it is not a nice move that they offered now since I have made the decision and most schools set their decision deadline at Apr 15. Not cool! Not cool at all! NYU
-
-
-### () 2018-xx-xx 卡内基梅隆大学 (CMU): Msc in Biotechnology Innovation and Computation
-
-| Test  | School | Department  | Status   |
-| :---: |:------:| :----------:| :------: |
-| GRE   | 2074   | N/A         | Sent     |
-| TOEFL | 2074   | N/A         | Sent     |
-
-[Info](http://bic.cs.cmu.edu/admissions/)
-
-[Curriculum](http://bic.cs.cmu.edu/curriculum/#11675)
-
-[Apply online](https://applygrad.cs.cmu.edu/apply/index.php?domain=1)
-
-**Important Dates**
-
-**Extra**
-
-This program has changed from BIC to Artificial Intelligence and Entrepreneurship. My friend got admitted but my first priority is Computational Biology and they probably stop reviewing your materials after you've been offered another program at the same school. 
-
-It's really career-based and I am quite confident this Master will help you land a job easily. Good! But it's probably gonna be much more competitive next year considering the wave of AI bull sh$t.
 
 ### () 2018-xx-xx 伊利诺伊大学厄巴纳-尚佩恩分校(UIUC) Msc in Bioinformatics
 
@@ -222,10 +203,6 @@ This is not required. But, we strongly encourage you to identify at least three 
 Got rejected. Will ask them why. But my guess is the lack of cs courses. This program is quite CS concentrated.
 
 Compared to the computational biology at CMU, this definitely will help a lot when I was considering a job at the tech companies. But in that way, they perfer someone with a CS degree **I guess!**
-
-
-### () 2018-xx-xx SFU: Msc in Computer Science (Bioinformatics)
-
 
 
 ## Euro
@@ -262,92 +239,3 @@ Can be submitted in a single envelop.
 [Document](https://www.ethz.ch/en/studies/registration-application/master/application/how-to-apply/application-documents.html)
 
 Describe all the courses under 500 characters each.
-
-
-### () 2018-04-01 莱顿大学(University of Leiden): Msc in Computer Science (Bioinformatics)
-
-| Test  | School | Department  | Status   |
-| :---: |:------:| :----------:| :------: |
-| GRE   | N/A    | N/A         | Not required |
-| TOEFL |        | N/A         | Sent |
-
-[Info](https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/bioinformatics)
-
-[Curriculum]()
-
-[Apply online](https://usis.leidenuniv.nl:8011/psp/S4PRD/?cmd=login&languageCd=ENG)
-
-**Important Dates**
-
-2018-04-01: [Deadline](https://www.universiteitleiden.nl/en/education/study-programmes/master/computer-science/bioinformatics/admission-and-application/application-deadlines)
-
-**Extra**
-
-Rolling basis. Too late when the decision is made early april.
-
-### () 2018-xx-xx 苏黎世大学(UZH): Msc in Biostatistics
-
-| Test  | School | Department  | Status   |
-| :---: |:------:| :----------:| :------: |
-| GRE   | N/A    | N/A         | Not required |
-| TOEFL | 0982   | N/A         | Not sent |
-
-[Info](http://www.biostat.uzh.ch/)
-
-[Curriculum](http://www.biostat.uzh.ch/program-description/curriculum/)
-
-[Apply online]()
-
-**Important Dates**
-
-**Extra**
-
-Need to submit and get approved by the department first before going to the admission committee
-
-Documents required: 
-1. application form
-2. motivation letter
-3. complete CV
-4. complete set of transcripts and diplomas: non-legalized copies are sufficient in the first step
-5. detailed description of all your undergraduate (and graduate) mathematical classes: not only the title but a least a table of contents, ideally with number of total contact hours and as much information as possible on the grading system for international applicants
-6. one letter of recommendation (sent directly to masterbiostat(at)math.uzh.ch)
-7. finance plan (containing costs vs. income, e.g. using budget sheets from Google Docs)
-8. proof of a sufficient level in English: where applicable
-9. optional: any additional information that might be relevant for the evaluation of your application (e.g. scientific or technical publications or awards, previous graduate studies, professional experience, reference letters etc.)
-
-
-## Honorable Mentions
-
-### () 2018-xx-xx 剑桥大学 (University of Cambridge): MPhil in Computational Biology
-
-| Test  | School | Department  | Status   |
-| :---: |:------:| :----------:| :------: |
-| GRE   | N/A    | N/A         | Not required |
-| TOEFL |        | N/A         | Not sent |
-
-Rolling basis
-
-[Info](https://www.graduate.study.cam.ac.uk/courses/directory/maammpcbi)
-
-[Please note we DO NOT process test reports sent to us directly from IELTS or TOEFL.](https://www.graduate.study.cam.ac.uk/how-do-i-apply/supporting-documentation/evidence-competence-english)
-
-No comment since I haven't done any research for this program.
-
-### (NA) 2018-01-15 英属哥伦比亚大学 (University of British Columbia): Msc in Statistics (Biostatistics track)
-
-| Test  | School | Department  | Status   |
-| :---: |:------:| :----------:| :------: |
-| GRE   | N/A    | N/A         | Not required |
-| TOEFL | 0965   | N/A         | Not sent |
-
-[Info](https://www.stat.ubc.ca/Msc-program-details)
-
-[Curriculum](https://www.stat.ubc.ca/Msc-program-details)
-
-[Apply online](https://www.stat.ubc.ca/Msc-program-details)
-
-**Important Dates**
-
-**Extra**
-
-Stopped the application for no reasons. I must be crazy at that moment.
